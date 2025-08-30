@@ -1,4 +1,3 @@
-
 # 🛡️ ShadowFed
 ### **Synchronized & Encrypted learning**
 
